@@ -14,9 +14,9 @@ const Footer = ({isDark}) => {
         <div className='sm:flex items-center justify-between text-center border-t border-gray-400 mx-[10%] mt-12 py-6'>
             <h1 className='text-2xl font-semibold'>RabbyCode.</h1>
             <ul className='flex justify-center items-center gap-10 justify-centermt-4 mt-5 sm:mt-0'>
-                <li><a href="#">Github</a></li>
-                <li><a href="#">LinkedIn</a></li>
-                <li><a href="#">Twitter</a></li>
+                <li><a href="https://github.com/devrabby" target='_blank'>Github</a></li>
+                <li><a href="www.linkedin.com/in/rasaq-abeeb-105734243" target='_blank'>LinkedIn</a></li>
+                <li><a href="https://x.com/HolyShina001?t=a1_DaV-EwYfXJVtdh-4Yfg&s=09" target='_blank'>Twitter</a></li>
             </ul>
         </div>
         

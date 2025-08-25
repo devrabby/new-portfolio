@@ -44,7 +44,7 @@ const Work = ({isDark}) => {
                                 <p>{project.description}</p>
                             </div>
                             <div>
-                                <Image src={assets.send_icon} alt='send icon' className='w-5' />
+                                <a href={project.link} target='_blank'><Image src={assets.send_icon} alt='send icon' className='w-5' /></a>
                             </div>
                         </div>
                         
