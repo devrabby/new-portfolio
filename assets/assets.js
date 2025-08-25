@@ -86,7 +86,7 @@ export const assets = {
 export default assets; 
 export const workData = [
     {
-        title: 'Frontend project',
+        title: 'Frontend Estate Project',
         description: 'Web Development',
         bgImage: '/work-1.png',
         link: "https://estate-landing-page-five.vercel.app",
