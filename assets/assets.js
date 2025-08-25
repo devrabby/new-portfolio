@@ -89,7 +89,7 @@ export const workData = [
         title: 'Frontend project',
         description: 'Web Development',
         bgImage: '/work-1.png',
-        link: "",
+        link: "https://estate-landing-page-five.vercel.app",
     },
     {
         title: 'Agency.io Landing-page',
